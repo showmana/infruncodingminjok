@@ -24,4 +24,8 @@ class FragmentAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
     }
     // test
     // test
+    // test
+    // test
+    // test
+    // test
 }
