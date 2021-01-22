@@ -1,4 +1,4 @@
-package kr.co.pitch_solution.infruncodingminjok.Fragment
+package kr.co.pitch_solution.infruncodingminjok.fragment
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
@@ -22,10 +22,4 @@ class FragmentAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
             }
         }
     }
-    // test
-    // test
-    // test
-    // test
-    // test
-    // test
 }

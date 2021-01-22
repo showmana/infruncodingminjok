@@ -1,4 +1,4 @@
-package kr.co.pitch_solution.infruncodingminjok.Fragment
+package kr.co.pitch_solution.infruncodingminjok.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

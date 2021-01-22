@@ -3,7 +3,7 @@ package kr.co.pitch_solution.infruncodingminjok
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_lecture.*
-import kr.co.pitch_solution.infruncodingminjok.Fragment.FragmentAdapter
+import kr.co.pitch_solution.infruncodingminjok.fragment.FragmentAdapter
 
 class LectureActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

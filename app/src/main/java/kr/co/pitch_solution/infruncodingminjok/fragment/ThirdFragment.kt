@@ -1,4 +1,4 @@
-package kr.co.pitch_solution.infruncodingminjok.Fragment
+package kr.co.pitch_solution.infruncodingminjok.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -12,18 +12,23 @@ import kr.co.pitch_solution.infruncodingminjok.R
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
-/**
- * A simple [Fragment] subclass.
- * Use the [FirstFragment.newInstance] factory method to
- * create an instance of this fragment.
- */
-class FirstFragment : Fragment() {
+class ThirdFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
 
-        return inflater.inflate(R.layout.fragment_first, container, false)
+        return inflater.inflate(R.layout.fragment_third, container, false)
     }
 }
+
+//Test
+//Test
+//Test
+//Test
+//Test
+//Test
+//Test
+//Test
+//Test
